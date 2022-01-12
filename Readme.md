@@ -1,8 +1,13 @@
 Probability of default
+
 Yahya Abdelmoaty
+
 12 January 2022
+
 https://www.linkedin.com/in/yahya-kamel-5653b24b/
+
 Harvard University 
+
 Data science capstone project
 
 The objective of this project is to use Machine Learning “ML” prediction models to predict the Probability of Default “PD” of retail loans. This prediction process is very vital for companies and institutions dealing with receivables and loans. Through this project, we will get hands on different models and techniques to get more insight from the prediction models.
