@@ -35,7 +35,7 @@ The underlying dataset contains the following data about around 29 thousand of r
 -	home_ownership: Rent/Mortage/Own/Others.
 -	age: Borrower’s age.
 
-The expected code run time is 25 – 45 minutes, depending on the machine speed.
+The expected time to run the code is 25 – 45 minutes, depending on the machine speed.
 
 Disclaimer:
 The information, estimates, code, and conclusions mentioned in this paper are only for educational purposes and should not be relied upon for any decisions.
